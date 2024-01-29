@@ -8,7 +8,7 @@ on:
 
 
 jobs:
- terraform-ci:
+ terraform-ci2:
    runs-on: ubuntu-latest
 
    steps:
